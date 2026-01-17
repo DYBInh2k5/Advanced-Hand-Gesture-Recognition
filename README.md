@@ -7,8 +7,10 @@
 
 Dự án nhận diện cử chỉ tay nâng cao với AI, điều khiển máy tính và ghi lại cử chỉ real-time sử dụng OpenCV và MediaPipe.
 
-
-(image.png)
+<div align="center">
+  <img src="image.png" alt="Hand Gesture Recognition Overview" width="800"/>
+  <p><em>Tổng quan các cử chỉ tay được hỗ trợ trong dự án</em></p>
+</div>
 
 
 ## 📸 Demo
